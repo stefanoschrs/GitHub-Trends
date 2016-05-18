@@ -1,0 +1,24 @@
+{
+  "name": "github-trending",
+  "version": "1.0.0",
+  "description": "Extract GitHub Trending Repositories",
+  "main": "trending.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanoschrs/GitHub-Trends.git"
+  },
+  "keywords": [
+    "github",
+    "trending",
+    "cheerio",
+    "nodejs"
+  ],
+  "author": "Stefanos Chrs <stefanoschrs@hotmail.com>",
+  "bugs": {
+    "url": "https://github.com/stefanoschrs/GitHub-Trends/issues"
+  },
+  "homepage": "https://github.com/stefanoschrs/GitHub-Trends#readme",
+  "dependencies": {
+    "cheerio": "^0.20.0"
+  }
+}
